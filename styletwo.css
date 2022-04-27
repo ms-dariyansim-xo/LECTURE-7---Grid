@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border;
+
+}
+
+p{
+    border: 1px solid black;
+}
+
+
+#blog-container{
+    width: 80%;
+    margin: 0 auto;
+
+    display:grid;
+    grid-template-columns: 70% auto;
+    height: 300px;
+
+}
